@@ -9,7 +9,7 @@
 3. Activate the Redis terminal.  
    For more details on how to activate Redis, visit the link below:  
 
-       [https://github.com/abhijdk/redis_entry_level](https://github.com/abhijdk/redis_entry_level)  
+       https://github.com/abhijdk/redis_entry_level 
 
 4. Perform login.  
    - **Username**: `user`  
